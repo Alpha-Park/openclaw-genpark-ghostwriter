@@ -1,0 +1,12 @@
+{
+  "name": "openclaw-genpark-ghostwriter",
+  "version": "1.0.0",
+  "description": "Autonomous SEO content readability evaluator computing Flesch-Kincaid scores, lexical diversity, and engagement polish",
+  "author": "GenPark AI Engineering",
+  "license": "MIT",
+  "keywords": ["ghostwriter", "readability", "flesch-kincaid", "seo-copy", "mcp", "agent-skills"],
+  "mcp": {
+    "supported": true,
+    "entrypoint": "mcp_server.py"
+  }
+}
